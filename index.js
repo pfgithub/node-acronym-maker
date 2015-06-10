@@ -17,8 +17,3 @@ exports.create = function(word, callback){
     }
   });
 };
-
-exports.create('pfg', function(err, res){
-  console.log(res);
-});
-console.log('HI DERE');
