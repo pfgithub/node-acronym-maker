@@ -1,0 +1,23 @@
+{
+  "name": "acronym-maker",
+  "version": "1.0.0",
+  "description": "An api for http://acronym-maker.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pfgithub/node-acronym-maker.git"
+  },
+  "author": "pfg",
+  "license": "apache-license-2.0",
+  "bugs": {
+    "url": "https://github.com/pfgithub/node-acronym-maker/issues"
+  },
+  "homepage": "https://github.com/pfgithub/node-acronym-maker",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.57.0"
+  }
+}
